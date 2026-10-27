@@ -1,0 +1,7 @@
+{
+  "command": "train",
+  "steps": 1000000,
+  "run": "runs/lander",
+  "seed": 42,
+  "resume": null
+}
